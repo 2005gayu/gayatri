@@ -37,7 +37,7 @@
 
     <section>
         <h2>About This Page</h2>
-        <p>This is a website. You can edit the text, colors, and layout as you like!</p>
+        <p>welcome to website</p>
         <button onclick="alert('Hello!')">Click Me</button>
     </section>
 
